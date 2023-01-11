@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a3f101bf_01a7cadc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000498
+      },
+      "writtenOn": "2023-01-11T15:14:01Z",
+      "side": 1,
+      "message": "just remove those targets since they are already defined by system/libhidl",
+      "revId": "a63a44c4ab7de4cf3a8978244f6c9af16d62141b",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
