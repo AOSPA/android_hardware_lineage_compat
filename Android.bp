@@ -4,6 +4,9 @@
 // SPDX-License-Identifier: Apache-2.0
 //
 
+soong_namespace {
+}
+
 cc_library_shared {
     name: "android.frameworks.stats-V1-ndk_platform",
     shared_libs: ["android.frameworks.stats-V1-ndk"],
