@@ -16,6 +16,24 @@
       "message": "maybe we should use vendor fingerprint here since thats the relevant one",
       "revId": "f4eea3d73b378fecef7b5010280d92cb86f2bbfa",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b2169b1e_6b582f00",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000656
+      },
+      "writtenOn": "2023-10-15T14:25:39Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "06626f35_70d15643",
+      "revId": "f4eea3d73b378fecef7b5010280d92cb86f2bbfa",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
