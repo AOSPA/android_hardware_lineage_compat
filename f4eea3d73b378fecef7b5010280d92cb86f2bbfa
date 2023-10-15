@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "06626f35_70d15643",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2023-10-15T05:23:18Z",
+      "side": 1,
+      "message": "maybe we should use vendor fingerprint here since thats the relevant one",
+      "revId": "f4eea3d73b378fecef7b5010280d92cb86f2bbfa",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
