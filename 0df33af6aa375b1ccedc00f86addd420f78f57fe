@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8a40825c_9cb9e0cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2023-10-25T11:24:13Z",
+      "side": 1,
+      "message": "10-25 16:53:28.390  8687  8687 F linker  : CANNOT LINK EXECUTABLE \"/vendor/bin/sensors.qti\": cannot locate symbol \"_ZN6google8protobuf8internal26fixed_address_empty_stringE\" referenced by \"/vendor/bin/sensors.qti\"...\n10-25 16:53:31.607  8689  8689 F linker  : CANNOT LINK EXECUTABLE \"/vendor/bin/hw/android.hardware.drm@1.3-service.widevine\": cannot locate symbol \"_ZNK6google8protobuf11MessageLite39InternalSerializeWithCachedSizesToArrayEPh\" referenced by \"/vendor/lib64/libwvhidl.so\"...",
+      "revId": "0df33af6aa375b1ccedc00f86addd420f78f57fe",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
