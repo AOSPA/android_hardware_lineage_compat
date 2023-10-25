@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "498be400_ecb71f52",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2023-10-25T09:56:25Z",
+      "side": 1,
+      "message": "10-25 15:17:41.257 18975 18975 F linker  : CANNOT LINK EXECUTABLE \"/vendor/bin/hw/android.hardware.drm@1.3-service.widevine\": cannot locate symbol \"_ZNK6google8protobuf11MessageLite39InternalSerializeWithCachedSizesToArrayEPh\" referenced by \"/vendor/lib64/libwvhidl.so\"...\n10-25 15:17:41.471 18976 18976 F linker  : CANNOT LINK EXECUTABLE \"/vendor/bin/sensors.qti\": cannot locate symbol \"_ZN6google8protobuf8internal26fixed_address_empty_stringE\" referenced by \"/vendor/bin/sensors.qti\"...\n\n\n\nUhhhhh",
+      "revId": "f4312e3d75ae28062a68d26b898f9e8a8f9e2170",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ],
   "submitRequirementResults": []
 }
