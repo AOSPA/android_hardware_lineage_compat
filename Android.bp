@@ -122,6 +122,13 @@ cc_library_shared {
     vendor: true,
 }
 
+cc_library_shared {
+    name: "libcodec2_hidl_shim",
+    srcs: ["libcodec2_hidl_shim/libcodec2_hidl_shim.cpp"],
+    shared_libs: ["libcodec2_hidl@1.0"],
+    vendor_available: true,
+}
+
 cc_prebuilt_library_shared {
     name: "libcrypto-v33",
     vendor: true,
