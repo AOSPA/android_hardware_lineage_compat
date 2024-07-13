@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fd979f70_338c9de7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2024-07-13T13:28:06Z",
+      "side": 1,
+      "message": "38005: oneplus9: Build with NEED_AIDL_NDK_PLATFORM_BACKEND. | https://gerrit.aospa.co/c/AOSPA/android_device_oneplus_oneplus9/+/38005",
+      "revId": "bafebab55091a61e69586fe68bae926e4a5eb102",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
