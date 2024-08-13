@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d18cc98e_6f663d24",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000687
+      },
+      "writtenOn": "2024-08-13T15:54:05Z",
+      "side": 1,
+      "message": "tested on Samsung sm8550,We shim keymint service with libcrypto-v33.so",
+      "revId": "e8690a2c826ad6ad788890292edb3ab6efc0fe58",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
