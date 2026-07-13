@@ -74,6 +74,7 @@ cc_defaults {
     shared_libs: ["libutils"],
     srcs: [
         "libgui/GraphicBufferProducer.cpp",
+        "libgui/ProducerListener.cpp",
         "libgui/SurfaceComposerClient.cpp",
     ],
 }
